@@ -1,0 +1,20 @@
+* {
+  font-family: poppins;
+  margin: 8px 12px;
+}
+.chat {
+  background-color: rgb(202, 255, 202);
+  border-radius: 16px;
+  padding: 8px;
+}
+.msg {
+  border-radius: 16px;
+  padding: 8px;
+  background-color: lightgreen;
+}
+.chat p {
+  font-size: 12px;
+}
+.msg p {
+  font-size: 16px;
+}
